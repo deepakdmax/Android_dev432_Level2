@@ -83,8 +83,8 @@ fun StudentProfile(
 private fun StudentProfilePreview() {
     StudentOrganizerTheme {
         StudentProfile(
-            studentName = "Pramiti Udupa",
-            studentId = "PES1UG24CS331",
+            studentName = "Shashank Arya ",
+            studentId = "PES1UG24CS432",
             major = "Computer Science & Engineering",
             avatarRes = R.drawable.ic_student_avatar,
             modifier = Modifier.padding(16.dp)
