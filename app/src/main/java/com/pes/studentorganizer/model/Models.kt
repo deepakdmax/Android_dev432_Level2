@@ -33,8 +33,8 @@ data class Assignment(
 )
 
 val sampleStudent = Student(
-    name = "Pramiti Udupa",
-    studentId = "PES1UG24CS331",
+    name = "Shashank Arya ",
+    studentId = "PES1UG24CS432",
     major = "Computer Science & Engineering",
     avatarRes = R.drawable.ic_student_avatar,
     gpa = 3.82,
